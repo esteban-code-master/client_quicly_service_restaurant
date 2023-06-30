@@ -1,0 +1,9 @@
+.tabs-item {
+    width: 40px;
+}
+
+.MuiButtonBase-root{
+    color: black !important;
+    font-size: 9px !important;
+    font-weight: bold !important;
+}

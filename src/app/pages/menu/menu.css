@@ -1,0 +1,30 @@
+.menu-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.menu{
+    box-shadow: 1px 1px 1px 1px rgba(203, 201, 201, 0.604);
+    border-radius: 4px;
+    position: relative;
+    width: 48%;
+    display: flex;
+    justify-content: end;
+    padding: 5px 0;
+}
+
+.menu-image{
+    width: 125px;
+    height: 100px;
+    object-fit: contain;
+    display: block;
+}
+
+.menu-name {
+    position: absolute;
+    left: 8px;
+    bottom: 8px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 15px;
+}

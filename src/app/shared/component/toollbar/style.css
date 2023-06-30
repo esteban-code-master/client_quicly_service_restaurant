@@ -1,0 +1,17 @@
+.tollbar{
+    box-sizing: 1px ;
+    position: sticky;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    box-shadow: 1px 1px 1px 1px gray;
+    background: white;
+    gap: 20px;
+}
+
+
+.tollbar-item img {
+    padding: 10px;
+    border-radius: 8px;
+}

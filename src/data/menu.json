@@ -1,0 +1,42 @@
+[
+    {
+        "image": "https://www.pngall.com/wp-content/uploads/2016/05/Pizza.png",
+        "name": "Pizzas"
+    },
+    {
+        "image": "https://www.pngplay.com/wp-content/uploads/13/Dessert-Transparent-Images.png",
+        "name": "Postres"
+    },
+    {
+        "image": "https://www.pngall.com/wp-content/uploads/5/Beverage-PNG-Free-Image.png",
+        "name": "Bebidas"
+    },
+    {
+        "image": "https://www.burgerking.com.mx/wp-media-folder-bk-mex//home/ubuntu/preview/menu-app/frontend/apps/marketing-website-wordpress-app/web/app/uploads/sites/3/Whopper-BBQ-Tocino-2.png",
+        "name": "Hamburgesas"
+    },
+    {
+        "image": "http://localhost:3001/menu/carne.png",
+        "name": "Cortes"
+    },
+    {
+        "image": "http://localhost:3001/menu/dedos_queso.png",
+        "name": "Entradas"
+    },
+    {
+        "image": "http://localhost:3001/menu/papas.png",
+        "name": "Papass"
+    },
+    {
+        "image": "http://localhost:3001/menu/sopas.png",
+        "name": "Postres"
+    },
+    {
+        "image": "http://localhost:3001/menu/sushi.png",
+        "name": "Postres"
+    },
+    {
+        "image": "http://localhost:3001/menu/promos.png",
+        "name": "Promos"
+    }
+]

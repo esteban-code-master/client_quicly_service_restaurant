@@ -1,0 +1,97 @@
+.menu-detail{
+    background: rgba(216, 214, 214, 0.718);
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+.meu-detail-content{
+    flex-grow: 1;
+}
+.menu-detail-title{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.promo {
+    position: absolute;
+    right: -10px;
+    top: 0;
+    background: #ea5924;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.menu-detail-price{
+    color: rgb(6, 26, 84);
+    margin-right: 10px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.menu-detail-price svg {
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.menu-detail-time{
+    color: rgb(6, 26, 84);
+    margin-right: 10px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.menu-detail-time svg {
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.menu-detail-image img{
+    width: 100%;
+    max-width: 100px;
+    border-radius: 8px;
+}
+.d{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.sub-menu{
+    width: 30px;
+    height: 30px;
+    background: rgb(82, 81, 81);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 10px 15px;
+    font-weight: bold;
+    box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px, rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+}
+.slider{
+    background: rgb(3, 105, 112);
+    position: sticky;
+    top: 74px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+    overflow-x: scroll;
+}
+
+
+.background {
+    background: white;
+    margin-bottom: 10px;
+}

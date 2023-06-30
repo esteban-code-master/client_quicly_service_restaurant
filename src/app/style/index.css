@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 15px;
+    background: #e5e2e2ad;
+}
+
+.w-100 {
+    width: 100% !important;
+}
+
+.size-14 {
+    font-size: 14px;
+}
